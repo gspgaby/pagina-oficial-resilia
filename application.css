@@ -1,0 +1,26 @@
+body {
+  width: 95%;
+  max-width: 800px;
+  margin:auto;
+  background: url(praia.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  .container img {
+    max-width: 250px;
+    max-height: 300px;
+  }
+  .container {
+    clear: both;
+    margin-top: 20px;
+  }
+  font-family: 'Sriracha';
+  line-height:1.5;
+  color: black;
+
+main {
+  background: dark blue
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
